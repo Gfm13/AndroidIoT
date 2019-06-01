@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614344582653",
+    "firebase_url": "https://cld-iot-gfm.firebaseio.com",
+    "project_id": "cld-iot-gfm",
+    "storage_bucket": "cld-iot-gfm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614344582653:android:a41d158d0ab4072d",
+        "android_client_info": {
+          "package_name": "com.example.logonrmlocal.androidiot.cld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614344582653-vqcg1k8n3qk7evvbj45jiietdmsgmivp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logonrmlocal.androidiot.cld",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "614344582653-70ihh25l47sbcu0jqst1or76prpmjejm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtW4uu0N4ClioaWs4vrVHGjj_Oy_23wPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614344582653-70ihh25l47sbcu0jqst1or76prpmjejm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
